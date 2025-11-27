@@ -61,10 +61,18 @@ body {
     cursor: pointer;
 
 }
-.wedding-footer {
+.wedding-header {
     background-color: var(--primary-color);
-    color: black;
-    padding: 2rem 1rem;
-    margin-top: 2rem;
+    color: white;
+    padding: 4rem 1rem;
 }
+
+.wedding-header h1 {
+    font-family: var(--font-heading);
+    font-size: 3rem;
+    margin-bottom: 0.5rem;
+}
+
+}
+
 

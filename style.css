@@ -59,4 +59,11 @@ body {
     border: none;
     border-radius: 4px;
     cursor: pointer;
+
+}
+.wedding-footer {
+    background-color: var(--primary-color);
+    color: white;
+    padding: 2rem 1rem;
+    margin-top: 2rem;
 }
